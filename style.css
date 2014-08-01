@@ -1,0 +1,34 @@
+/* General css */
+.footer{background:#000; clear:both}
+.row {
+    display: table;
+}
+
+[class*="col-"] {
+    display: table-cell;
+}
+.homepage-left{padding-right:0; padding-left:0}
+.homepage-right{background:#000}
+.navbar-right li{padding-right:10px; padding-top:10px}
+.navbar-right li .pintrest{background:url('images/pintrest.jpg') no-repeat top left}
+.navbar-right li .pintrest:hover{background:url('images/pintrest_hover.jpg') no-repeat top left}
+
+.navbar-right li .facebook{background:url('images/facebook.jpg') no-repeat top left}
+.navbar-right li .facebook:hover{background:url('images/facebook_hover.jpg') no-repeat top left}
+
+.navbar-right li .googleplus{background:url('images/googleplus.jpg') no-repeat top left}
+.navbar-right li .googleplus:hover{background:url('images/googleplus_hover.jpg') no-repeat top left}
+
+.navbar-right li .instagram{background:url('images/instagram.jpg') no-repeat top left}
+.navbar-right li .instagram:hover{background:url('images/instagram_hover.jpg') no-repeat top left}
+/* Large desktop */
+@media (min-width: 1200px) { ... }
+
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { ... }
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { ... }
+
+/* Landscape phones and down */
+@media (max-width: 480px) { ... }
