@@ -1,25 +1,29 @@
+@font-face {font-family: Haettenschweiler; src: url(font/HATTEN.TTF);}
 /* General css */
-.footer{background:#000; clear:both}
-.row {
-    display: table;
-}
-
-[class*="col-"] {
-    display: table-cell;
-}
-.homepage-left{padding-right:0; padding-left:0}
+.exhibitiondetail h1{color:#daa521; font-family: Oswald; text-transform:uppercase}
+.exhibitiondetail p{color:#cb3338; font-family: Teko; font-size:}
+.container{background:#daa521}
+.navbar{margin-bottom:0; background-color:#daa521; border-radius:0; text-transform:uppercase; border:0}
+.navbar-default .navbar-nav>li>a{color:#000; font-family: haettenschweiler;}
+.navbar-default .navbar-brand{color:#000; font-size:13px}
+.navbar-default .navbar-toggle .icon-bar{background-color:#000}
+.navbar-default .navbar-toggle{}
+.footer{background:#000; clear:both; font-family: haettenschweiler; font-size:}
+.row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}
+.row.equal{overflow: hidden;}
+.homepage-left{padding-right:0; padding-left:0; background:#cb3338}
 .homepage-right{background:#000}
 .navbar-right li{padding-right:10px; padding-top:10px}
-.navbar-right li .pintrest{background:url('images/pintrest.jpg') no-repeat top left}
+.navbar-right li .pintrest{background:url('images/pintrest.jpg') no-repeat top left; width: 30px; height: 30px}
 .navbar-right li .pintrest:hover{background:url('images/pintrest_hover.jpg') no-repeat top left}
 
-.navbar-right li .facebook{background:url('images/facebook.jpg') no-repeat top left}
+.navbar-right li .facebook{background:url('images/facebook.jpg') no-repeat top left; width: 30px; height: 30px}
 .navbar-right li .facebook:hover{background:url('images/facebook_hover.jpg') no-repeat top left}
 
-.navbar-right li .googleplus{background:url('images/googleplus.jpg') no-repeat top left}
+.navbar-right li .googleplus{background:url('images/googleplus.jpg') no-repeat top left; width: 30px; height: 30px}
 .navbar-right li .googleplus:hover{background:url('images/googleplus_hover.jpg') no-repeat top left}
 
-.navbar-right li .instagram{background:url('images/instagram.jpg') no-repeat top left}
+.navbar-right li .instagram{background:url('images/instagram.jpg') no-repeat top left; width: 30px; height: 30px}
 .navbar-right li .instagram:hover{background:url('images/instagram_hover.jpg') no-repeat top left}
 /* Large desktop */
 @media (min-width: 1200px) { ... }
@@ -28,7 +32,9 @@
 @media (min-width: 768px) and (max-width: 979px) { ... }
 
 /* Landscape phone to portrait tablet */
-@media (max-width: 767px) { ... }
+@media (max-width: 767px) {
+.navbar-right li.pt, .navbar-right li.fb, .navbar-right li.gp, .navbar-right li.ig{display:inline-block} 
+}
 
 /* Landscape phones and down */
 @media (max-width: 480px) { ... }
