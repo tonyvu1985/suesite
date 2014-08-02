@@ -11,8 +11,8 @@
 .navbar-default .navbar-toggle .icon-bar{background-color:#000}
 .navbar-default .navbar-toggle{}
 .footer{background:#000; clear:both; font-family: haettenschweiler; border-top: 2px solid #daa521}
-.footer .name{font-size:25px; color: #daa521}
-.footer .email{font-size:19px; color: #daa521}
+.footer .name{font-size:30px; color: #daa521}
+.footer .email{font-size:22px; color: #daa521}
 .row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}
 .row.equal{overflow: hidden;}
 .homepage-left{padding-right:0; padding-left:0; background:#cb3338; border-top:2px solid #daa521}
@@ -47,4 +47,6 @@
 }
 
 /* Landscape phones and down */
-@media (max-width: 480px) { ... }
+@media (max-width: 480px) { 
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand{font-size:30px}
+}
