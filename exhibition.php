@@ -40,9 +40,9 @@
 		<p>Also in Dada tradition, L’Ashby has created a series of Glomesh ‘ready-mades’, glamourising everyday objects into lifestyle pieces for every lover of the mesh. </p>
 		<p>Throne playfully references Marcel Duchamps’ Fountain, a porcelain urinal signed with the pseudonym ‘R. Mutt’, which shocked the art world in 1917 and is now one of the most recognisable modernist works of sculpture.  L’Ashby looks forward to a world filled with more ‘glamourist’ ready-mades.</p>
 	</div>
-	<div class="col-md-4 col-xs-12 exhibition-right text-right">
-		<img class="img-responsive" src="images/gagaDada-trans.png" alt="DADAist hand">
-		<img class="img-responsive" src="images/exhibition2.jpg" alt="Adoption 1 artwork">
+	<div class="col-md-4 col-xs-12 exhibition-right text-center">
+		<img class="hand" src="images/gagaDada-trans.png" alt="DADAist hand">
+		<img src="images/exhibition2.jpg" alt="Adoption 1 artwork">
 	</div>
     </div>
     <!-- footer -->
