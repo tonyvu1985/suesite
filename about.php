@@ -12,15 +12,21 @@ body font:Kozuka Gothic PR6N, Roboto
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>About Mada L'Ashby</title>
+<?php include_once('call-bootstrap.php'); ?>
+
 </head>
 
 <body>
+<style>
+   .navbar-brand.home{background: #cb3338 !important; color:#000 !important}
+</style>
 
-
+<div class="container">
+<!-- Call Narbar -->
+<?php include_once('narbar.php'); ?>
 
 <h1>About Madam L’Ashby</h1>
 
-<section>
 <p><strong>Madam L’Ashby is a Dadaist and Glomesher Extraordinaire. </strong></p>
 
 <h2>Dadaist extraordinare</h2>
@@ -33,24 +39,15 @@ body font:Kozuka Gothic PR6N, Roboto
 
 <p>The artist has an extensive Glomesh collection accumulated over many years from local op shops and vintage markets which is referenced in the artwork. </p>
 
-
-</section>
-
-<aside>
-<figure>
-	<img src="images/about_sue.jpg" alt="Madam L'Ashby'>
-</figure>
+<img src="images/about_sue.jpg" alt="Madam L'Ashby'>
 
 <strong>Contact</strong>
 
 Get on the L’Ash mailing list – send a request to:  <a href="mailto:madam@madamlashby.com">madam@madamlashby.com</a>
 
-</aside>
-
-<footer>
-DADAist amp; Glomesher Extraordinaire: 
-<a href="mailto:madam@madamlashby.com">madam@madamlashby.com</a>
-</footer>
+<!-- footer -->
+<?php include_once('footer.php'); ?>
+</div> <!-- /container -->
 
 </body>
 </html>

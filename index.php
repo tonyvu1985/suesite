@@ -9,21 +9,21 @@
     <link rel="icon" href="favicon.ico">
 
     <title>From Dada To Gaga</title>
-    <?php include_once('call-bootstrap.php'); ?>
+<?php include_once('call-bootstrap.php'); ?>
 
-  </head>
+</head>
 <body>
 <style>
-   .navbar-brand.home{background: #cb3338 !important; color:#000 !important}
+.navbar-brand.home{background: #cb3338 !important; color:#000 !important}
 </style>
 
 <div class="container">
 <!-- Call Narbar -->
 <?php include_once('narbar.php'); ?>
-      <!-- Main component for a primary marketing message or call to action -->
-      <div class="row equal">
-		<div class="col-md-6 col-xs-12 homepage-left">
-			<img class="img-responsive" src="images/home1.jpg" alt="" />
+<!-- Main component for a primary marketing message or call to action -->
+<div class="row equal">
+	<div class="col-md-6 col-xs-12 homepage-left">
+		<img class="img-responsive" src="images/home1.jpg" alt="" />
 		</div>
 		<div class="col-md-6 col-xs-12 homepage-right">
 			<p class="text-center"><img src="images/exhibition.jpg" alt="" /></p>
