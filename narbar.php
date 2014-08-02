@@ -13,15 +13,15 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-    <a class="navbar-brand" href="#">Home</a>
+    <a class="navbar-brand home" href="index.php">Home</a>
   </div>
   <div class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
-      <li class="active"><a href="#">Exhibition</a></li>
-      <li><a href="#">Gallery</a></li>
-     <li><a href="glomesh.html">Glomesh</a></li>
-      <li><a href="dada.html">DADA</a></li>
-      <li><a href="about.html">About Madam L'Ashby</a></li>
+      <li class="exhibition"><a href="exhibition.php">Exhibition</a></li>
+      <li><a class="gallery" href="gallery.php">Gallery</a></li>
+     <li><a class="glomesh" href="glomesh.php">Glomesh</a></li>
+      <li><a class="dada" href="dada.php">DADA</a></li>
+      <li><a class="about" href="about.php">About Madam L'Ashby</a></li>
     </ul>
     <ul class="nav navbar-nav navbar-right">
       <li class="pt"><a class="pintrest" href="http://www.pinterest.com/madamlashby/" target="_blank"></a></li>

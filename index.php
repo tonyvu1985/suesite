@@ -13,6 +13,10 @@
 
   </head>
 <body>
+<style>
+   .navbar-brand.home{background: #cb3338 !important; color:#000 !important}
+</style>
+
 <div class="container">
 <!-- Call Narbar -->
 <?php include_once('narbar.php'); ?>

@@ -1,5 +1,6 @@
 @font-face {font-family: haettenschweiler; src: url(font/HATTEN.TTF);}
 /* General css */
+.title{color:#cb3338; font-family: Oswald; font-size:22px}
 .exhibitiondetail h1{color:#daa521; font-family: Oswald; text-transform:uppercase}
 .exhibitiondetail p{color:#cb3338; font-family: Teko; font-size:21px; font-weight:bold}
 .container{background:#000}
@@ -7,15 +8,16 @@
 .navbar-default .navbar-nav>li>a{color:#daa521; font-family: haettenschweiler; }
 .navbar-default .navbar-nav>li>a:hover{color:#cb3338}
 .navbar-default .navbar-brand{color:#daa521; font-family: haettenschweiler; }
-.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{background-color:#cb3338; color:#000}
 .navbar-default .navbar-toggle .icon-bar{background-color:#fff}
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background-color:#333}
+.navbar-brand.home:hover{color:#cb3338}
 .footer{background:#000; clear:both; font-family: haettenschweiler; border-top: 2px solid #daa521}
 .footer .name{font-size:30px; color: #daa521}
 .footer .email{font-size:22px; color: #daa521}
 .row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}
 .row.equal{overflow: hidden;}
 .homepage-left{padding-right:0; padding-left:0; background:#cb3338; border-top:2px solid #daa521}
+.glomesh-left{background-color:#daa521}
 .homepage-right{background:#000; border-top:2px solid #daa521}
 .homepage-right img{padding-top:100px}
 .navbar-right li{padding-right:10px; padding-top:10px}
