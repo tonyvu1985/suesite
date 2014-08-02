@@ -19,6 +19,9 @@ a:hover{color:#000}
 .row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}
 .row.equal{overflow: hidden;}
 .glomesh-left, .exhibition-left, .about-left {background-color:#daa521; border-right:3px solid #000}
+.gallery-left{background:#cb3338}
+.gallery-left img{width:300px; border: 3px solid #000; margin-top:30px}
+.gallery-right{color:#daa521; background:#000}
 .dada-container{background-color:#daa521}
 .exhibition-right, .about-right{background-color:#cb3338; }
 .about-right img{margin:30px 0 40px 0}
@@ -41,6 +44,7 @@ a:hover{color:#000}
 .navbar-right li .instagram:hover{background:url('images/instagram_hover.jpg') no-repeat top left}
 .tvcom{font-size:22px; margin-top:20px; color:#daa521}
 body{background:#f5f5f5; font-family: 'Roboto', sans-serif;}
+.table-no-border>thead>tr>th, .table-no-border>tbody>tr>th, .table-no-border>tfoot>tr>th, .table-no-border>thead>tr>td, .table-no-border>tbody>tr>td, .table-no-border>tfoot>tr>td {border-top: none;}
 /* Large desktop */
 @media (min-width: 1000px) { 
 	.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand{font-size:29px}
