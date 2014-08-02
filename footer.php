@@ -6,7 +6,7 @@
 	</div>
 
 	<div class="col-md-5 col-xs-12 text-right tvcom">
-		<p>Powered by <a href="http://www.tvcom.com.au"><span style="color:#fff">TV</span><span style="color:#F15A29">com</span></a></p>
+		<p>Powered by <a href="http://www.tvcom.com.au" target="_blank"><span style="color:#fff">TV</span><span style="color:#F15A29">com</span></a></p>
 	</div>
 </div>
 

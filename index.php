@@ -4,8 +4,6 @@
     <meta charset="utf-8">
     <meta name="description" content="from dada to gaga">
     <meta name="tony vu" content="">
-    <link rel="icon" href="favicon.ico">
-
     <title>From Dada To Gaga</title>
 <?php include_once('call-bootstrap.php'); ?>
 
