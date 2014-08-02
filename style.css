@@ -18,17 +18,16 @@ a:hover{color:#000}
 .footer .email{font-size:22px; color: #daa521}
 .row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}
 .row.equal{overflow: hidden;}
-.glomesh-left, .exhibition-left, .about-left {background-color:#daa521; border-right:3px solid #000}
+.glomesh-left, .exhibition-left, .about-left, .dada-left {background-color:#daa521; border-right:3px solid #000}
 .gallery-left{background:#cb3338}
 .gallery-left img{width:300px; border: 3px solid #000; margin-top:30px}
 .gallery-right{color:#daa521; background:#000}
-.dada-container{background-color:#daa521}
 .exhibition-right, .about-right{background-color:#cb3338; }
 .about-right img{margin:30px 0 40px 0}
 .exhibition-right .hand{padding: 40px 0 35px 0 }
 .homepage-container{border-top:2px solid #daa521; border-bottom:2px solid #daa521}
 .homepage-left{padding-right:0; padding-left:0; background:#cb3338;}
-.homepage-right{background:#000;}
+.homepage-right, .dada-right{background:#000;}
 .homepage-right img{padding-top:100px}
 .navbar-right li{padding-right:10px; padding-top:10px}
 .navbar-right li .pintrest{background:url('images/pintrest.jpg') no-repeat top left; width: 30px; height: 30px}
@@ -61,6 +60,7 @@ body{background:#f5f5f5; font-family: 'Roboto', sans-serif;}
 	.navbar-right li.pt, .navbar-right li.fb, .navbar-right li.gp, .navbar-right li.ig{display:inline-block} 
 	.navbar-default .navbar-nav>li>a, .navbar-default .navbar-brand{font-size:29px}
 	.tvcom{text-align:left}
+	img{display:inline-block !important; margin: 30px 0}
 }
 
 /* Landscape phones and down */

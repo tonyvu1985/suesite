@@ -22,12 +22,12 @@
 <?php include_once('narbar.php'); ?>
 <!-- Main component for a primary marketing message or call to action -->
 <div class="row equal homepage-container">
-	<div class="col-md-6 col-xs-12 homepage-left">
+	<div class="col-md-6 col-xs-12 homepage-left text-center">
 		<img class="img-responsive" src="images/home1.jpg" alt="" />
 	</div>
-	<div class="col-md-6 col-xs-12 homepage-right">
+	<div class="col-md-6 col-xs-12 homepage-right text-center">
 		<p class="text-center"><img src="images/exhibition.jpg" alt="" /></p>
-		<div class="text-right exhibitiondetail col-xs-8 ">
+		<div class="text-right exhibitiondetail col-xs-8">
 			<h1>Exhibition</h1>
 			<p>Chrissie Cotter Gallery<br/>
 			Pidcock Street, Camperdown<br/>

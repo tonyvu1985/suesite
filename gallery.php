@@ -15,7 +15,7 @@
 <!-- Call Narbar -->
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
-	<div class="col-md-8 col-xs-12 gallery-left">
+	<div class="col-md-8 col-xs-12 gallery-left text-center">
 		<img class="img-responsive" src="images/gallery1" alt="Adoption 1">
 		<img src="images/">
 	</div>
