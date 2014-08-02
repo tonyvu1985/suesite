@@ -17,7 +17,8 @@
 .row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}
 .row.equal{overflow: hidden;}
 .homepage-left{padding-right:0; padding-left:0; background:#cb3338; border-top:2px solid #daa521}
-.glomesh-left{background-color:#daa521}
+.glomesh-left, .exhibition-left{background-color:#daa521}
+.exhibition-right{background-color:#cb3338; }
 .homepage-right{background:#000; border-top:2px solid #daa521}
 .homepage-right img{padding-top:100px}
 .navbar-right li{padding-right:10px; padding-top:10px}

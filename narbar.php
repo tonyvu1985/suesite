@@ -17,9 +17,9 @@
   </div>
   <div class="navbar-collapse collapse">
     <ul class="nav navbar-nav">
-      <li class="exhibition"><a href="exhibition.php">Exhibition</a></li>
+      <li><a class="exhibition" href="exhibition.php">Exhibition</a></li>
       <li><a class="gallery" href="gallery.php">Gallery</a></li>
-     <li><a class="glomesh" href="glomesh.php">Glomesh</a></li>
+      <li><a class="glomesh" href="glomesh.php">Glomesh</a></li>
       <li><a class="dada" href="dada.php">DADA</a></li>
       <li><a class="about" href="about.php">About Madam L'Ashby</a></li>
     </ul>
