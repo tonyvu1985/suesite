@@ -1,9 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
     <meta name="description" content="from dada to gaga">
-    <meta name="tony vu" content="">
     <title>From Dada To Gaga</title>
 <?php include_once('call-bootstrap.php'); ?>
 

@@ -25,7 +25,7 @@ a:hover{color:#000}
 .exhibition-right, .about-right{background-color:#cb3338; }
 .about-right img{margin:30px 0 40px 0}
 .exhibition-right .hand{padding: 40px 0 35px 0 ; display:inline-block}
-.exhibition-right .sueimage{border:4px solid #000; display:inline-block; margin-bottom:20px}
+.exhibition-right .sueimage{border:8px solid #000; display:inline-block; margin-bottom:20px}
 .homepage-container{border-top:2px solid #daa521; border-bottom:2px solid #daa521}
 .homepage-left{padding-right:0; padding-left:0; background:#cb3338;}
 .homepage-right, .dada-right{background:#000;}
