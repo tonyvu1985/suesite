@@ -13,7 +13,7 @@
 <!-- Call Narbar -->
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
-	<div class="col-md-8 col-xs-12 glomesh-left">
+	<div class="col-md-9 col-xs-12 glomesh-left">
 		<h1 class="title">About Glomesh</h1>
 		<strong>Glomesh. Glamour in a handbag.</strong>
 		<p>‘Glomesh’ is the trademark name for the iconic Australian metal mesh produced in metallic golds and silvers, and enamel creams, black and burgundy and used to make glamourous handbags, purses, clutches, cigarette holders, lighters, make up compacts, perfume atomisers and other luxurious lady essentials. And not forgetting the sexy and sinuous Glomesh halter neck top.</p>
@@ -29,7 +29,7 @@
 
 		<a href="http://www.glomesh.com" target="_new">www.glomesh.com</a>
 	</div>
-	<div class="col-md-4 col-xs-12 glomesh-right">
+	<div class="col-md-3 col-xs-12 glomesh-right">
 		<img src="" alt="" />
 	</div>
 
