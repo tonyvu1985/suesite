@@ -1,10 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Glomesh</title>
 <?php include_once('call-bootstrap.php'); ?>
-
 </head>
 
 <body>
@@ -29,16 +27,13 @@
 		<h1 class="title">Re-mesh</h1>
 		<p>While pre-loved mesh pieces are a staple find in vintage markets and op shops, the brand Glomesh relaunched in late 2013, making new and beautiful contemporary Glomesh bags.</p>
 
-
-<a href="http://www.glomesh.com
-"  target="_new">www.glomesh.com</a>
+		<a href="http://www.glomesh.com" target="_new">www.glomesh.com</a>
 	</div>
 	<div class="col-md-4 col-xs-12 glomesh-right">
 		<img src="" alt="" />
 	</div>
 
 </div>
-<!-- footer -->
 <?php include_once('footer.php'); ?>
 </div>
 </body>

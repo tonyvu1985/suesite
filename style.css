@@ -2,7 +2,7 @@
 /* General css */
 a{color:#000}
 a:hover{color:#000}
-.title{color:#cb3338; font-family: Oswald; font-size:22px}
+.title{color:#cb3338; font-family: Oswald; font-size:23px}
 .exhibitiondetail h1{color:#daa521; font-family: Oswald; text-transform:uppercase}
 .exhibitiondetail p{color:#cb3338; font-family: Teko; font-size:21px; font-weight:bold}
 .container{background:#000}
@@ -13,7 +13,7 @@ a:hover{color:#000}
 .navbar-default .navbar-toggle .icon-bar{background-color:#fff}
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background-color:#333}
 .navbar-brand.home:hover{color:#cb3338}
-.footer{background:#000; clear:both; font-family: haettenschweiler;}
+.footer{background:#000; clear:both; font-family: haettenschweiler; padding:20px 0}
 .footer .name{font-size:30px; color: #daa521}
 .footer .email{font-size:22px; color: #daa521}
 .row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}

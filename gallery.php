@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Gallery</title>
 <?php include_once('call-bootstrap.php'); ?>
 </head>
@@ -15,11 +14,11 @@
 <!-- Call Narbar -->
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
-	<div class="col-md-8 col-xs-12 gallery-left text-center">
+	<div class="col-md-9 col-xs-12 gallery-left text-center">
 		<img class="img-responsive" src="images/gallery1" alt="Adoption 1">
 		<img src="images/">
 	</div>
-	<div class="col-md-4 col-xs-12 gallery-right">
+	<div class="col-md-3 col-xs-12 gallery-right">
 		<h1 class="title" style="color:#daa521">The L’Ash Gallery</h1>
 		<p>A retrospective and installation featuring photomontage artworks and Glomesh articles.  </p>
 		
@@ -83,10 +82,7 @@
 		</table>
 	</div>
 </div>	
-<!-- footer -->
 <?php include_once('footer.php'); ?>
 </div> <!-- /container -->
-
-
 </body>
 </html>

@@ -41,9 +41,8 @@
 		<img class="hand img-responsive" src="images/gagaDada-trans.png" alt="DADAist hand"><br/>
 		<img class="sueimage img-responsive" src="images/exhibition2.jpg" alt="Adoption 1 artwork">
 	</div>
-    </div>
-    <!-- footer -->
-   <?php include_once('footer.php'); ?>
+</div>
+<?php include_once('footer.php'); ?>
 </div>
 
 </body>

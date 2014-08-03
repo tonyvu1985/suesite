@@ -1,19 +1,8 @@
-﻿<!--ABOUT
-
-heading font: Oswald
-
-body font:Kozuka Gothic PR6N, Roboto
-
--->
-
-
-<!DOCTYPE HTML>
+﻿<!DOCTYPE HTML>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>About Mada L'Ashby</title>
 <?php include_once('call-bootstrap.php'); ?>
-
 </head>
 
 <body>
@@ -44,10 +33,8 @@ body font:Kozuka Gothic PR6N, Roboto
 			<p>Get on the L’Ash mailing list –<br/>send a request to:</p><a href="mailto:madam@madamlashby.com">madam@madamlashby.com</a>
 		</div>
 	</div>
+	<?php include_once('footer.php'); ?>
 </div>
-<!-- footer -->
-<?php include_once('footer.php'); ?>
-</div> <!-- /container -->
-
+</div> 
 </body>
 </html>

@@ -1,10 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>DADA</title>
 <?php include_once('call-bootstrap.php'); ?>
-
 </head>
 
 <body>
@@ -13,9 +11,7 @@
 </style>
 
 <div class="container">
-<!-- Call Narbar -->
 <?php include_once('narbar.php'); ?>
-
 <div class="row equal">
 	<div class="col-md-9 col-xs-12 dada-left">
 		<h1 class="title">About DADA</h1>
@@ -52,9 +48,7 @@
 		<img src="images/dada2.jpg" class="img-responsive" alt="" />
 	</div>
 </div>
-<!-- footer -->
 <?php include_once('footer.php'); ?>
 </div> <!-- /container -->
-
 </body>
 </html>
