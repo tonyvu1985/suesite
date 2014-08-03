@@ -38,7 +38,8 @@
 		<p>Throne playfully references Marcel Duchamps’ Fountain, a porcelain urinal signed with the pseudonym ‘R. Mutt’, which shocked the art world in 1917 and is now one of the most recognisable modernist works of sculpture.  L’Ashby looks forward to a world filled with more ‘glamourist’ ready-mades.</p>
 	</div>
 	<div class="col-md-3 col-xs-12 exhibition-right text-center">
-		<img class="hand img-responsive" src="images/gagaDada-trans.png" alt="DADAist hand"><br/>
+		<p class="title" style="color:#000; padding-top:30px"><a href="">Click here for artworks</a></p>
+		<img class="hand img-responsive rotate90" src="images/gagaDada-trans.png" alt="DADAist hand"><br/>
 		<img class="sueimage img-responsive" src="images/exhibition2.jpg" alt="Adoption 1 artwork">
 	</div>
 </div>
