@@ -22,7 +22,7 @@ a:hover{color:#000}
 .glomesh-left, .exhibition-left, .about-left, .dada-left {background-color:#daa521; border-right:3px solid #000}
 .gallery-left{background:#cb3338}
 .gallery-left img{width:300px; border: 3px solid #000; margin-top:30px}
-.gallery-right{color:#daa521; background:#000}
+.gallery-right, .glomesh-right{color:#daa521; background:#000}
 .exhibition-right, .about-right{background-color:#cb3338; }
 .about-right img{margin:30px 0 40px 0}
 .exhibition-right .hand{padding: 40px 0 35px 0 ; display:inline-block}

@@ -27,15 +27,16 @@
 		<p>The artist has an extensive Glomesh collection accumulated over many years from local op shops and vintage markets which is referenced in the artwork. </p>
 	</div>
 	<div class="col-md-3 col-xs-12 about-right text-right">
-		<p><img src="images/about_sue.jpg" alt="Madam L'Ashby'></p>
+		<p><img src="images/about-lashby.jpg" class="img-responsive" alt="" /></p>
+		<p><img src="images/about_sue.jpg" alt="Madam L'Ashby" /></p>
 		<div class="contactdetail">
 			<p class="title" style="color:#000">Contact</p>
 			<p>Get on the L’Ash mailing list –<br/>send a request to:</p><a href="mailto:madam@madamlashby.com">madam@madamlashby.com</a>
 			<div class="block"></div>
 		</div>
 	</div>
-	<?php include_once('footer.php'); ?>
 </div>
+	<?php include_once('footer.php'); ?>
 </div> 
 </body>
 </html>

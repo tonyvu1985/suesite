@@ -29,8 +29,8 @@
 
 		<a href="http://www.glomesh.com" target="_new">www.glomesh.com</a>
 	</div>
-	<div class="col-md-3 col-xs-12 glomesh-right">
-		<img src="" alt="" />
+	<div class="col-md-3 col-xs-12 glomesh-right text-center">
+		<img src="images/glo-gallery.jpg" class="img-responsive" alt="" />
 	</div>
 
 </div>
