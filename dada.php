@@ -38,6 +38,7 @@
 				<strong>For more info about DADA check out:</strong>
 				<br />
 				<a href="http://arthistory.about.com/cs/arthistory10one/a/dada.htm" target="_blank">http://arthistory.about.com/cs/arthistory10one/a/dada.htm</a><br /><a href="http://www.nga.gov/exhibitions/2006/dada/techniques/index.shtm" target="_new">http://www.nga.gov/exhibitions/2006/dada/techniques/index.shtm</a>
+				<div class="block"></div>
 			</div>
 			<div class="col-sm-3 col-xs-12 text-center">
 				<img src="images/dada_2.jpg" alt="" class="img-responsive" />
