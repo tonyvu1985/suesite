@@ -37,7 +37,7 @@
 		<div class="contactdetail">
 			<p class="title" style="color:#000">Contact</p>
 			<p>Get on the L’Ash mailing list –<br/>send a request to:</p><a href="mailto:madam@madamlashby.com">madam@madamlashby.com</a>
-			<div class="block"></div>
+			<div class="block" style="margin-top:40px"></div>
 		</div>
 	</div>
 </div>

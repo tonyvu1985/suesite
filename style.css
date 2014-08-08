@@ -16,8 +16,8 @@ a:hover{color:#000}
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{background-color:#333}
 .navbar-brand.home:hover{color:#cb3338}
 .footer{background:#000; clear:both; font-family: haettenschweiler; padding:20px 0}
-.footer .name{font-size:30px; color: #daa521}
-.footer .email{font-size:22px; color: #daa521}
+.footer .name{font-size:26px; color: #daa521}
+.footer .email{font-size:26px; color: #daa521}
 .row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}
 .row.equal{overflow: hidden;}
 .glomesh-left, .exhibition-left, .about-left, .dada-left {background-color:#daa521; border-right:3px solid #000}
@@ -46,8 +46,8 @@ a:hover{color:#000}
 .navbar-right li .instagram{background:url('images/instagram.jpg') no-repeat top left; width: 30px; height: 30px}
 .navbar-right li .instagram:hover{background:url('images/instagram_hover.jpg') no-repeat top left}
 .tvcom{font-size:22px; margin-top:20px; color:#daa521}
-body{background:#fff; font-family: 'Roboto', sans-serif;}
-.block{display:block; height:300px}
+body{background:#ddd; font-family: 'Roboto', sans-serif;}
+.block{display:block; height:400px}
 .table-no-border>thead>tr>th, .table-no-border>tbody>tr>th, .table-no-border>tfoot>tr>th, .table-no-border>thead>tr>td, .table-no-border>tbody>tr>td, .table-no-border>tfoot>tr>td {border-top: none;}
 /* Large desktop */
 @media (min-width: 1000px) { 
