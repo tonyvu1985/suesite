@@ -18,7 +18,7 @@
 		<img class="img-responsive" src="images/gallery1.jpg" alt="Adoption 1">
 	</div>
 	<div class="col-md-3 col-xs-12 gallery-right">
-		<h1 class="title" style="color:#daa521">The L’Ash Gallery</h1>
+		<h1 class="heading" style="color:#daa521">The L’Ash Gallery</h1>
 		<p>A retrospective and installation featuring photomontage artworks and Glomesh articles.  </p>
 		
 		<h1 class="title" style="color:#daa521">List of artworks</h2>

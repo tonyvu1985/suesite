@@ -4,6 +4,7 @@
 a{color:#000}
 a:hover{color:#000}
 .title{color:#cb3338; font-family: Oswald; font-size:23px}
+.heading{color:#cb3338; font-family: Oswald; font-size:27px}
 .exhibitiondetail h1{color:#daa521; font-family: Oswald; text-transform:uppercase}
 .exhibitiondetail p{color:#cb3338; font-family: Teko; font-size:21px; font-weight:bold}
 .container{background:#000}
@@ -20,6 +21,7 @@ a:hover{color:#000}
 .row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}
 .row.equal{overflow: hidden;}
 .glomesh-left, .exhibition-left, .about-left, .dada-left {background-color:#daa521; border-right:3px solid #000}
+.about-left{padding-top:20px}
 .gallery-left{background:#cb3338}
 .gallery-left img{width:300px; border: 3px solid #000; margin-top:30px}
 .gallery-right, .glomesh-right{color:#daa521; background:#000}
@@ -44,7 +46,7 @@ a:hover{color:#000}
 .navbar-right li .instagram{background:url('images/instagram.jpg') no-repeat top left; width: 30px; height: 30px}
 .navbar-right li .instagram:hover{background:url('images/instagram_hover.jpg') no-repeat top left}
 .tvcom{font-size:22px; margin-top:20px; color:#daa521}
-body{background:#f5f5f5; font-family: 'Roboto', sans-serif;}
+body{background:#fff; font-family: 'Roboto', sans-serif;}
 .block{display:block; height:300px}
 .table-no-border>thead>tr>th, .table-no-border>tbody>tr>th, .table-no-border>tfoot>tr>th, .table-no-border>thead>tr>td, .table-no-border>tbody>tr>td, .table-no-border>tfoot>tr>td {border-top: none;}
 /* Large desktop */

@@ -14,7 +14,7 @@
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
 	<div class="col-md-9 col-xs-12 glomesh-left">
-		<h1 class="title">About Glomesh</h1>
+		<h1 class="heading">About Glomesh</h1>
 		<strong>Glomesh. Glamour in a handbag.</strong>
 		<p>‘Glomesh’ is the trademark name for the iconic Australian metal mesh produced in metallic golds and silvers, and enamel creams, black and burgundy and used to make glamourous handbags, purses, clutches, cigarette holders, lighters, make up compacts, perfume atomisers and other luxurious lady essentials. And not forgetting the sexy and sinuous Glomesh halter neck top.</p>
 

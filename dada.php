@@ -14,7 +14,7 @@
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
 	<div class="col-md-9 col-xs-12 dada-left">
-		<h1 class="title">About DADA</h1>
+		<h1 class="heading">About DADA</h1>
 		<div class="row">
 			<div class="col-sm-3 col-xs-12 text-center">
 				<img class="img-responsive" src="images/dada.jpg" alt="" />

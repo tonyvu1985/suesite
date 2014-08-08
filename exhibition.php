@@ -16,7 +16,7 @@
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
 	<div class="col-md-9 col-xs-12 exhibition-left">    
-		<h1 class="title">About the Exhibition</h1>
+		<h1 class="heading">About the Exhibition</h1>
 		<div class="row equal"> 
 			<div class="col-sm-3 col-xs-12 text-center">
 				<img class="img-responsive" src="images/exhibition.jpg" alt="From DADA to Gaga">
