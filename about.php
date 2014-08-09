@@ -15,15 +15,7 @@
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
 	<div class="col-md-9 col-xs-12 about-left">
-		<div class="row">
-			<div class="col-md-3 col-xs-12 text-center">
-				<p><img src="images/about-lashby.jpg" class="img-responsive" alt="" /></p>
-			</div>
-			<div class="col-md-9 col-xs-12">
-				<h1 class="heading" style="margin-top:0">About Madam L’Ashby</h1>
-				<p><strong>Madam L’Ashby is a Dadaist and Glomesher Extraordinaire. </strong></p>
-			</div>
-		</div>
+		<p><strong>Madam L’Ashby is a Dadaist and Glomesher Extraordinaire. </strong></p>
 		<h1 class="title">Dadaist extraordinare</h1>
 		<p>The subversive alter-ego of Suzanne Ashby, Madam L’Ashby is an underground artist who distributes her art-form yearly by snail mail and sees the dada humour in everything. </p>
 		<p>Using non-digital photomontage reminiscent of the Dadaist art movement, Madam L’Ashby delivers a subversive, humourous political and social critique of contemporary news and celebrity culture. The work has been created over the past 20 years and is the artist’s much loved annual calling card amongst friends and acquaintances, proudly displayed on refrigerators across Sydney’s inner west and beyond.</p>
@@ -31,6 +23,7 @@
 		<h1 class="title">Glomesher extraordinare</h1>
 		<p>L’Ashby fell in love with Glomesh, the iconic metal mesh – at a Myer Roselands handbag counter in 1979, purchasing a silver wallet, her first of many glamourous Glomesh accoutrements. </p>
 		<p>The artist has an extensive Glomesh collection accumulated over many years from local op shops and vintage markets which is referenced in the artwork. </p>
+		<p class="text-center" style="margin-top:40px"><img src="images/about-lashby.jpg" alt="" /></p>
 	</div>
 	<div class="col-md-3 col-xs-12 about-right text-right">
 		<p><img src="images/about_sue.jpg" alt="Madam L'Ashby" /></p>
