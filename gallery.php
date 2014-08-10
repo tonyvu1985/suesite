@@ -15,7 +15,7 @@
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
 	<div class="col-md-9 col-xs-12 gallery-left text-center">
-		<img class="img-responsive" src="images/gallery1.jpg" alt="Adoption 1">
+		<img class="img-responsive" src="images/gallery-img.png" alt="Gallery">
 	</div>
 	<div class="col-md-3 col-xs-12 gallery-right">
 		<h1 class="heading" style="color:#daa521">The L’Ash Gallery</h1>
