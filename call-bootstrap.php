@@ -2,6 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="tvcom" content="from dada to gaga">
+<meta name="robots" content="index, follow">
 <link rel="icon" href="favicon.ico">
 <!-- Bootstrap core CSS -->
 <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
