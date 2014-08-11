@@ -3,6 +3,14 @@
 <head>
 <title>Gallery</title>
 <?php include_once('call-bootstrap.php'); ?>
+<!-- Lightbox Make IE8 and below responsive by adding CSS3 MediaQuery support -->
+<!--[if lt IE 9]>
+  <script type='text/javascript' src='http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js'></script> 
+<![endif]-->
+
+<link href="fresco.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="fresco.js"></script>
+
 </head>
 
 <body>
@@ -15,7 +23,23 @@
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
 	<div class="col-md-9 col-xs-12 gallery-left text-center">
-		<img class="img-responsive" src="images/gallery-img.png" alt="Gallery">
+		<a href='images/gallery/Adoption-1.jpg' class='fresco' data-fresco-group='slider' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Adoption 1">
+		     <img class="img-responsive" src='images/gallery-img.png' />
+		</a>
+
+		<a href='images/gallery/Adoption-2.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Adoption 2"></a>
+		<a href='images/gallery/Adoption-3.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Adoption 3"></a>
+		<a href='images/gallery/Cruise-Control-1.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Cruise Control 1"></a>
+		<a href='images/gallery/Cruise-Control-2.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Cruise Control 1"></a>
+		<a href='images/gallery/Double-O---GLO--1.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="00-GLO 1"></a>
+		<a href='images/gallery/Double-O---GLO--2.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="00-GLO 2"></a>
+		<a href='images/gallery/Double-O---GLO--3.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="00-GLO 3"></a>
+		<a href='images/gallery/Double-O---GLO--4.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="00-GLO 4"></a>
+		<a href='images/gallery/Glomesh-Queen-1.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Queen 1"></a>
+		<a href='images/gallery/Glomesh-Queen-2.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Queen 2"></a>
+		<a href='images/gallery/Glomesh-Queen-3.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Queen 3"></a>
+		<a href='images/gallery/Glomesh-Queen-4.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Queen 4"></a>
+
 	</div>
 	<div class="col-md-3 col-xs-12 gallery-right">
 		<h1 class="heading" style="color:#daa521">The L’Ash Gallery</h1>
