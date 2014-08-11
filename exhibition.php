@@ -19,7 +19,7 @@
 		<h1 class="heading">About the Exhibition</h1>
 		<div class="row equal"> 
 			<div class="col-sm-3 col-xs-12 text-center">
-				<img class="img-responsive" src="images/exhibition.jpg" alt="From DADA to Gaga">
+				<img class="img-responsive" src="images/exhibition1.jpg" alt="From DADA to Gaga">
 			</div>
 			<div class="col-sm-9 col-xs-12">
 			<p><strong>A retrospective and installation featuring photomontage artworks and Glomesh articles.</strong> </p>
@@ -39,7 +39,7 @@
 		<div class="block"></div>
 	</div>
 	<div class="col-md-3 col-xs-12 exhibition-right text-center">
-		<p class="title" style="color:#000; padding-top:30px"><a href="">Click here for artworks</a></p>
+		<p class="title" style="color:#000; padding-top:30px"><a href="/gallery.php">Click here for artworks</a></p>
 		<img class="hand img-responsive rotate90" src="images/gagaDada-trans.png" alt="DADAist hand"><br/>
 		<img class="sueimage img-responsive" src="images/exhibition2.jpg" alt="Adoption 1 artwork">
 	</div>

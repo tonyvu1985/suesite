@@ -20,7 +20,7 @@
 		<img class="img-responsive" src="images/home1.jpg" alt="" />
 	</div>
 	<div class="col-md-6 col-xs-12 homepage-right text-center">
-		<p class="text-right"><img class="imagehome" src="images/exhibition.jpg" alt="" /></p>
+		<p class="text-right"><a href="/exhibition.php" ><img class="imagehome" src="images/exhibition.jpg" alt="" /></a></p>
 		<div class="text-right exhibitiondetail col-xs-9">
 			<h1>Exhibition</h1>
 			<p>Chrissie Cotter Gallery<br/>

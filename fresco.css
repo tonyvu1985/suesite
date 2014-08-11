@@ -973,7 +973,7 @@
 }
 
 @media all and (min-height: 350px) {
-  .fr-thumbnail-loading-background { background-image: url('skins/loading-medium.gif'); }
+  .fr-thumbnail-loading-background { background-image: url('images/loading-medium.gif'); }
 }
 
 @media all and (min-height: 500px) {
@@ -1009,7 +1009,7 @@
 .fr-window-fresco .fr-touch-close .fr-touch-button-icon,
 .fr-window-fresco .fr-touch-caption-more .fr-touch-button-icon,
 .fr-window-fresco .fr-thumbnails-side-button-icon {
-  background-image: url('skins/fresco/sprite.png');
+  background-image: url('images/sprite.png');
 }
 /* High-res sprite */
 @media only screen and (-webkit-min-device-pixel-ratio: 2),
@@ -1282,7 +1282,7 @@ only screen and (min-device-pixel-ratio: 2) {
 .fr-window-IE6 .fr-side-button-icon,
 .fr-window-IE6 .fr-close-icon,
 .fr-window-IE6 .fr-thumbnails-side-button-icon {
-  background-image: url('skins/IE6/sprite.png');
+  background-image: url('images/sprite.png');
 }
 
 /* < > */

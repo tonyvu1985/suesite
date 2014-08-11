@@ -39,7 +39,7 @@
 		<a href='images/gallery/Glomesh-Queen-2.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Queen 2"></a>
 		<a href='images/gallery/Glomesh-Queen-3.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Queen 3"></a>
 		<a href='images/gallery/Glomesh-Queen-4.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Queen 4"></a>
-
+		<a href='images/gallery/Glomesh-Spice-1.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Spice 1"></a>
 	</div>
 	<div class="col-md-3 col-xs-12 gallery-right">
 		<h1 class="heading" style="color:#daa521">The L’Ash Gallery</h1>
