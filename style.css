@@ -17,10 +17,11 @@ a:hover{color:#000}
 .navbar-brand.home:hover{color:#cb3338}
 .footer{background:#000; clear:both; font-family: haettenschweiler; padding:20px 0}
 .footer .name{font-size:26px; color: #daa521}
-.footer .email{font-size:26px; color: #daa521}
+.footer .email{font-size:26px; color: #cb3338}
 .row.equal [class*="col-"]{margin-bottom: -99999px; padding-bottom: 99999px;}
 .row.equal{overflow: hidden;}
 .glomesh-left, .exhibition-left, .about-left, .dada-left {background-color:#daa521; border-right:3px solid #000}
+.glomesh-page{display:inline-block; margin:40px 0}
 .about-left{padding-top:20px}
 .gallery-left{background:#cb3338}
 .gallery-left img{display:inline-block; margin-top:20px}

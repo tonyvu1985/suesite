@@ -28,9 +28,10 @@
 		<p>While pre-loved mesh pieces are a staple find in vintage markets and op shops, the brand Glomesh relaunched in late 2013, making new and beautiful contemporary Glomesh bags.</p>
 
 		<a href="http://www.glomesh.com" target="_new">www.glomesh.com</a>
-		<div class="block"></div>
+		<p class="text-center"><img class="img-responsive glomesh-page" src="images/glomesh/glomesh-page.jpg" /></p>
 	</div>
 	<div class="col-md-3 col-xs-12 glomesh-right text-center">
+		<img class="img-responsive" src="images/glomesh/glomesh-sidebar.jpg" />
 	</div>
 
 </div>
