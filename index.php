@@ -17,7 +17,7 @@
 <!-- Main component for a primary marketing message or call to action -->
 <div class="row equal homepage-container">
 	<div class="col-md-6 col-xs-12 homepage-left text-center">
-		<img class="img-responsive" src="images/home1.jpg" alt="" />
+		<a href="/gallery.php"><img class="img-responsive" src="images/home1.jpg" alt="" /></a>
 	</div>
 	<div class="col-md-6 col-xs-12 homepage-right text-center">
 		<p class="text-right"><a href="/exhibition.php" ><img class="imagehome" src="images/exhibition.jpg" alt="" /></a></p>
