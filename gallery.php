@@ -10,7 +10,13 @@
 
 <link href="fresco.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="fresco.js"></script>
+<script type="text/javascript" src="jquery.rwdImageMaps.min.js"></script>
 
+<script>
+	jQuery(document).ready(function(){
+		jQuery('img[usemap]').rwdImageMaps();
+	})
+</script>
 </head>
 
 <body>
@@ -23,7 +29,7 @@
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
 	<div class="col-md-9 col-xs-12 gallery-left text-center">
-		<img src="images/gallery-img.png" width="650" height="606" border="0" usemap="#map" />
+		<img src="images/gallery-img.png" class="img-responsive" border="0" usemap="#map" />
 			<map name="map">
 				<area shape="poly" coords="201,29,516,29,517,464,263,463,213,341,200,348,202,29" class='fresco' data-fresco-group='slider' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Adoption 1" href="images/gallery/Adoption-1.jpg" />
 				<area shape="poly" coords="6,422,214,344,266,472,56,553,7,423" class='fresco' data-fresco-group='glomesh' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Cream mesh" href="images/glomesh-gallery/Cream-mesh.jpg" />
