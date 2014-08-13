@@ -23,10 +23,13 @@
 <?php include_once('narbar.php'); ?>
 <div class="row equal">
 	<div class="col-md-9 col-xs-12 gallery-left text-center">
-		<a href='images/gallery/Adoption-1.jpg' class='fresco' data-fresco-group='slider' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Adoption 1">
-		     <img class="img-responsive" src='images/gallery-img.png' />
-		</a>
+		<img src="images/gallery-img.png" width="650" height="606" border="0" usemap="#map" />
+			<map name="map">
+				<area shape="poly" coords="201,29,516,29,517,464,263,463,213,341,200,348,202,29" class='fresco' data-fresco-group='slider' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Adoption 1" href="images/gallery/Adoption-1.jpg" />
+				<area shape="poly" coords="6,422,214,344,266,472,56,553,7,423" class='fresco' data-fresco-group='glomesh' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Cream mesh" href="images/glomesh-gallery/Cream-mesh.jpg" />
+			</map>
 
+		<!-- Gallery -->
 		<a href='images/gallery/Adoption-2.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Adoption 2"></a>
 		<a href='images/gallery/Adoption-3.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Adoption 3"></a>
 		<a href='images/gallery/Cruise-Control-1.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Cruise Control 1"></a>
@@ -40,6 +43,13 @@
 		<a href='images/gallery/Glomesh-Queen-3.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Queen 3"></a>
 		<a href='images/gallery/Glomesh-Queen-4.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Queen 4"></a>
 		<a href='images/gallery/Glomesh-Spice-1.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="Glomesh Spice 1"></a>
+
+		<!-- Glomesh -->
+		<a href='images/glomesh-gallery/Glomesh-bags.jpg' class='fresco' data-fresco-group='glomesh' data-fresco-caption="Glomesh bags"></a>
+		<a href='images/glomesh-gallery/Glomesh-key-chain.jpg' class='fresco' data-fresco-group='glomesh' data-fresco-caption="Glomesh key chain"></a>
+		<a href='images/glomesh-gallery/glomesh-pic.jpg' class='fresco' data-fresco-group='glomesh' data-fresco-caption="glomesh pic"></a>
+		<a href='images/glomesh-gallery/Golden-glo.jpg' class='fresco' data-fresco-group='glomesh' data-fresco-caption="Golden glo"></a>
+		<a href='images/glomesh-gallery/i-luv-glomesh.jpg' class='fresco' data-fresco-group='glomesh' data-fresco-caption="i luv glomesh"></a>
 	</div>
 	<div class="col-md-3 col-xs-12 gallery-right">
 		<h1 class="heading" style="color:#daa521">The L’Ash Gallery</h1>
