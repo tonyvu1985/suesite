@@ -31,8 +31,8 @@
 	<div class="col-md-9 col-xs-12 gallery-left text-center">
 		<img src="images/gallery-img.png" class="img-responsive" border="0" usemap="#map" />
 			<map name="map">
-				<area shape="poly" coords="201,29,516,29,517,464,263,463,213,341,200,348,202,29" class='fresco' data-fresco-group='slider' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Adoption 1" href="images/gallery/Adoption-1.jpg" />
-				<area shape="poly" coords="6,422,214,344,266,472,56,553,7,423" class='fresco' data-fresco-group='glomesh' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Cream mesh" href="images/glomesh-gallery/Cream-mesh.jpg" />
+				<area shape="poly" coords="200,347,201,27,517,29,518,340,549,354,537,327,552,327,578,360,585,378,594,382,581,418,572,421,637,454,621,483,518,437,517,465,263,463,215,342,200,347,201,28" class='fresco' data-fresco-group='slider' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Adoption 1" href="images/gallery/Adoption-1.jpg" />
+				<area shape="poly" coords="3,199,81,168,95,193,85,205,98,234,138,312,199,347,213,344,266,471,55,553,7,424,4,195" class='fresco' data-fresco-group='glomesh' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Cream mesh" href="images/glomesh-gallery/Cream-mesh.jpg" />
 			</map>
 
 		<!-- Gallery -->
