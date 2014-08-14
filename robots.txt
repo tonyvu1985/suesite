@@ -2,4 +2,4 @@
 User-agent: *
 Disallow: /images/
 Crawl-delay: 120
-Sitemap: madamlashby.com
+Sitemap: http://www.madamlashby.com/sitemap.xml
