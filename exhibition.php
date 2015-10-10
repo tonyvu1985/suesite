@@ -3,7 +3,12 @@
 <head>
 <meta name="description" content="Exhibition">
 <title>Exhibition</title>
+
 <?php include_once('call-bootstrap.php'); ?>
+
+<link href="fresco.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="fresco.js"></script>
+
 </head>
 
 <body>
@@ -36,6 +41,30 @@
 		<h1 class="title">Glamourist ready-mades</h1>
 		<p>Also in Dada tradition, L’Ashby has created a series of Glomesh ‘ready-mades’, glamourising everyday objects into lifestyle pieces for every lover of the mesh. </p>
 		<p>Throne playfully references Marcel Duchamps’ Fountain, a porcelain urinal signed with the pseudonym ‘R. Mutt’, which shocked the art world in 1917 and is now one of the most recognisable modernist works of sculpture.  L’Ashby looks forward to a world filled with more ‘glamourist’ ready-mades.</p>
+		<h1 class="title">Opening night</h1>
+
+		<p><a href="images/exhibition/opening-night-1.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Opening night">Link to new gallery of photos</a></p>
+		<a href="images/exhibition/opening-night-2.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-3.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-4.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-5.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-6.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-7.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-8.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-9.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-10.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-11.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-12.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-13.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-14.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-15.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-16.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-17.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-18.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-19.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/opening-night-20.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+
+		<p><a href="https://www.youtube.com/watch?v=6sULp-7taLM" target="_blank">Link to a video</a></p>
 		<div class="block"></div>
 	</div>
 	<div class="col-md-3 col-xs-12 exhibition-right text-center">

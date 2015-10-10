@@ -3,6 +3,8 @@
 .rotate90 {-webkit-transform: rotate(120deg); -moz-transform: rotate(120deg); -o-transform: rotate(120deg); -ms-transform: rotate(120deg); transform: rotate(120deg);}
 a{color:#000}
 a:hover{color:#000}
+.artwork{color:#daa521;}
+.artwork:hover{color:#daa521; text-decoration: underline}
 .title{color:#cb3338; font-family: Oswald; font-size:23px}
 .heading{color:#cb3338; font-family: Oswald; font-size:30px}
 .exhibitiondetail h1{color:#daa521; font-family: Oswald; text-transform:uppercase}

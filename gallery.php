@@ -118,6 +118,15 @@
 				<td>XRAY-ted</td> 
 				<td>2013</td>
 			</tr>
+			<tr></tr>	
+				<td>
+					<a href="images/glo-down/Glo-down-1.jpg" class='fresco artwork' data-fresco-group='glo-down' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Glo-down">GLO-down</a>
+					<a href="images/glo-down/Glo-down-2.jpg" class='fresco' data-fresco-group='glo-down' data-fresco-caption="Glo-down"></a>
+					<a href="images/glo-down/Glo-down-3.jpg" class='fresco' data-fresco-group='glo-down' data-fresco-caption="Glo-down"></a>
+					<a href="images/glo-down/Glo-down-4.jpg" class='fresco' data-fresco-group='glo-down' data-fresco-caption="Glo-down"></a>
+				</td> 
+				<td>2014</td>
+			</tr>
 		</table>
 	</div>
 </div>	
