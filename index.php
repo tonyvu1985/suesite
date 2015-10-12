@@ -22,12 +22,8 @@
 	<div class="col-md-6 col-xs-12 homepage-right text-center">
 		<p class="text-right"><a href="/exhibition.php" ><img class="imagehome" src="images/exhibition.jpg" alt="" /></a></p>
 		<div class="text-right exhibitiondetail col-xs-9">
-			<h1>Exhibition</h1>
-			<p>Chrissie Cotter Gallery<br/>
-			Pidcock Street, Camperdown<br/>
-			Opening night 25 September, 6pm<br/>
-			Thurs-Sun 11am-5pm until 05 October 2014</p>
-		</div>
+			<h1>&nbsp;</h1>
+</div>
       </div><!-- End of Main Content -->
 </div>
 	<!-- footer -->    
