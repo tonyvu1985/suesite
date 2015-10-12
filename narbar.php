@@ -25,7 +25,7 @@
     </ul>
     <ul class="nav navbar-nav navbar-right">
       <li class="pt"><a class="pintrest" href="http://www.pinterest.com/madamlashby/" target="_blank"></a></li>
-      <li class="fb"><a class="facebook" href="https://www.facebook.com/MadamLashby" target="_blank"></a></li>
+      <li class="fb"><a class="facebook" href="https://www.facebook.com/fromdadatogaga" target="_blank"></a></li>
       <li class="gp"><a class="googleplus" href="https://plus.google.com/u/0/101915113030661771747/posts" target="_blank"></a></li>
       <li class="ig"><a class="instagram" href="http://instagram.com/madamlashby" target="_blank"></a></li>
     </ul>
