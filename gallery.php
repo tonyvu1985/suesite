@@ -163,7 +163,11 @@
 				<td>Sedition</td>
 				<td>2005</td>
 			<tr></tr>	
-				<td>Adoption</td>
+				<td>					
+					<a href="images/gallery/Adoption-1.jpg" class='fresco artwork' data-fresco-group='Adoption' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Adoption 1">Adoption</a>
+					<a href="images/gallery/Adoption-2.jpg" class='fresco' data-fresco-group='Adoption' data-fresco-caption="Adoption 2"></a>
+					<a href="images/gallery/Adoption-3.jpg" class='fresco' data-fresco-group='Adoption' data-fresco-caption="Adoption 3"></a>
+				</td>
 				<td>2006</td>
 			<tr></tr>	
 				<td>Bag snatch</td>
