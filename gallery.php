@@ -133,65 +133,145 @@
 		<h1 class="title" style="color:#daa521">List of artworks</h2>
 		<table class="table table-no-border">
 			<tr>
-				<td>Bonkers in Honkers</td>
+				<td>
+					<a href="images/gallery/01-gallery.jpg" class='fresco artwork' data-fresco-group='Bonkers-in-Honkers' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Bonkers in Honkers">Bonkers in Honkers</a>
+					<a href="images/gallery/02-gallery.jpg" class='fresco' data-fresco-group='Bonkers-in-Honkers' data-fresco-caption="Bonkers in Honkers"></a>
+					<a href="images/gallery/03-gallery.jpg" class='fresco' data-fresco-group='Bonkers-in-Honkers' data-fresco-caption="Bonkers in Honkers"></a>
+				</td>
 				<td>1995</td>
 			</tr><tr>
-				<td>Glomesh Spice</td>
+				<td>
+					<a href="images/gallery/04-gallery.jpg" class='fresco artwork' data-fresco-group='Glomesh-Spice' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Glomesh Spice">Glomesh Spice</a>
+					<a href="images/gallery/05-gallery.jpg" class='fresco' data-fresco-group='Glomesh-Spice' data-fresco-caption="Glomesh Spice"></a>
+				</td>
 				<td>1997</td>    
 			</tr><tr> 
-				<td>Madam President</td>
+				<td>
+					<a href="images/gallery/06-gallery.jpg" class='fresco artwork' data-fresco-group='Madam-President' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Madam President">Madam President</a>
+					<a href="images/gallery/07-gallery.jpg" class='fresco' data-fresco-group='Madam-President' data-fresco-caption="Madam President"></a>
+					<a href="images/gallery/08-gallery.jpg" class='fresco' data-fresco-group='Madam-President' data-fresco-caption="Madam President"></a>
+					<a href="images/gallery/09-gallery.jpg" class='fresco' data-fresco-group='Madam-President' data-fresco-caption="Madam President"></a>
+				</td>
 				<td>1998</td>
-			<tr></tr>	
-				<td>OO-GLO</td>
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/10-gallery.jpg" class='fresco artwork' data-fresco-group='OO-GLO' data-fresco-group-options="ui: 'outside'" data-fresco-caption="OO-GLO">OO-GLO</a>
+					<a href="images/gallery/11-gallery.jpg" class='fresco' data-fresco-group='OO-GLO' data-fresco-caption="OO-GLO"></a>
+					<a href="images/gallery/12-gallery.jpg" class='fresco' data-fresco-group='OO-GLO' data-fresco-caption="OO-GLO"></a>
+					<a href="images/gallery/13-gallery.jpg" class='fresco' data-fresco-group='OO-GLO' data-fresco-caption="OO-GLO"></a>
+				</td>
 				<td>1999</td>
-			<tr></tr>	
-				<td>Glomesh Queen</td>
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/14-gallery.jpg" class='fresco artwork' data-fresco-group='Glomesh-Queen' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Glomesh Queen">Glomesh Queen</a>
+					<a href="images/gallery/15-gallery.jpg" class='fresco' data-fresco-group='Glomesh-Queen' data-fresco-caption="Glomesh Queen"></a>
+					<a href="images/gallery/16-gallery.jpg" class='fresco' data-fresco-group='Glomesh-Queen' data-fresco-caption="Glomesh Queen"></a>
+					<a href="images/gallery/17-gallery.jpg" class='fresco' data-fresco-group='Glomesh-Queen' data-fresco-caption="Glomesh Queen"></a>
+				</td>
 				<td>2000</td>
-			<tr></tr>	
-				<td>Cruise control</td> 
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/18-gallery.jpg" class='fresco artwork' data-fresco-group='Cruise-control' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Cruise control">Cruise control</a>
+					<a href="images/gallery/19-gallery.jpg" class='fresco' data-fresco-group='Cruise-control' data-fresco-caption="Cruise control"></a>
+					<a href="images/gallery/20-gallery.jpg" class='fresco' data-fresco-group='Cruise-control' data-fresco-caption="Cruise control"></a>
+					<a href="images/gallery/21-gallery.jpg" class='fresco' data-fresco-group='Cruise-control' data-fresco-caption="Cruise control"></a>
+				</td> 
 				<td>2001</td>
-			<tr></tr>	
-				<td>Glamourism</td>
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/22-gallery.jpg" class='fresco artwork' data-fresco-group='Glamourism' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Glamourism">Glamourism</a>
+					<a href="images/gallery/23-gallery.jpg" class='fresco' data-fresco-group='Glamourism' data-fresco-caption="Glamourism"></a>
+					<a href="images/gallery/24-gallery.jpg" class='fresco' data-fresco-group='Glamourism' data-fresco-caption="Glamourism"></a>
+					<a href="images/gallery/25-gallery.jpg" class='fresco' data-fresco-group='Glamourism' data-fresco-caption="Glamourism"></a>
+				</td>
 				<td>2002 </td>
-			<tr></tr>	
-				<td>Madge Kiss</td>
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/26-gallery.jpg" class='fresco artwork' data-fresco-group='Madge-Kiss' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Madge Kiss">Madge Kiss</a>
+					<a href="images/gallery/27-gallery.jpg" class='fresco' data-fresco-group='Madge-Kiss' data-fresco-caption="Madge Kiss"></a>
+					<a href="images/gallery/28-gallery.jpg" class='fresco' data-fresco-group='Madge-Kiss' data-fresco-caption="Madge Kiss"></a>
+				</td>
 				<td>2003</td>
-			<tr></tr>	
-				<td>Rehab</td> 
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/29-gallery.jpg" class='fresco artwork' data-fresco-group='Rehab' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Rehab">Rehab</a>
+					<a href="images/gallery/30-gallery.jpg" class='fresco' data-fresco-group='Rehab' data-fresco-caption="Rehab"></a>
+					<a href="images/gallery/31-gallery.jpg" class='fresco' data-fresco-group='Rehab' data-fresco-caption="Rehab"></a>
+					<a href="images/gallery/32-gallery.jpg" class='fresco' data-fresco-group='Rehab' data-fresco-caption="Rehab"></a>
+				</td> 
 				<td>2004</td>
-			<tr></tr>	
-				<td>Sedition</td>
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/33-gallery.jpg" class='fresco artwork' data-fresco-group='Sedition' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Sedition">Sedition</a>
+					<a href="images/gallery/34-gallery.jpg" class='fresco' data-fresco-group='Sedition' data-fresco-caption="Sedition"></a>
+					<a href="images/gallery/35-gallery.jpg" class='fresco' data-fresco-group='Sedition' data-fresco-caption="Sedition"></a>
+				</td>
 				<td>2005</td>
-			<tr></tr>	
+			</tr><tr>	
 				<td>					
-					<a href="images/gallery/Adoption-1.jpg" class='fresco artwork' data-fresco-group='Adoption' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Adoption 1">Adoption</a>
-					<a href="images/gallery/Adoption-2.jpg" class='fresco' data-fresco-group='Adoption' data-fresco-caption="Adoption 2"></a>
-					<a href="images/gallery/Adoption-3.jpg" class='fresco' data-fresco-group='Adoption' data-fresco-caption="Adoption 3"></a>
+					<a href="images/gallery/36-gallery.jpg" class='fresco artwork' data-fresco-group='Adoption' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Adoption 1">Adoption</a>
+					<a href="images/gallery/37-gallery.jpg" class='fresco' data-fresco-group='Adoption' data-fresco-caption="Adoption 2"></a>
+					<a href="images/gallery/38-gallery.jpg" class='fresco' data-fresco-group='Adoption' data-fresco-caption="Adoption 3"></a>
+					<a href="images/gallery/39-gallery.jpg" class='fresco' data-fresco-group='Adoption' data-fresco-caption="Adoption 4"></a>
 				</td>
 				<td>2006</td>
-			<tr></tr>	
-				<td>Bag snatch</td>
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/40-gallery.jpg" class='fresco artwork' data-fresco-group='Bag-snatch' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Bag snatch">Bag snatch</a>
+					<a href="images/gallery/41-gallery.jpg" class='fresco' data-fresco-group='Bag-snatch' data-fresco-caption="Bag snatch"></a>
+					<a href="images/gallery/42-gallery.jpg" class='fresco' data-fresco-group='Bag-snatch' data-fresco-caption="Bag snatch"></a>
+				</td>
 				<td>2007</td>
-			<tr></tr>	
-				<td>Lady Pope</td>
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/43-gallery.jpg" class='fresco artwork' data-fresco-group='Lady-Pope' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Lady Pope">Lady Pope</a>
+					<a href="images/gallery/44-gallery.jpg" class='fresco' data-fresco-group='Lady-Pope' data-fresco-caption="Lady Pope"></a>
+					<a href="images/gallery/45-gallery.jpg" class='fresco' data-fresco-group='Lady-Pope' data-fresco-caption="Lady Pope"></a>
+					<a href="images/gallery/46-gallery.jpg" class='fresco' data-fresco-group='Lady-Pope' data-fresco-caption="Lady Pope"></a>
+					<a href="images/gallery/47-gallery.jpg" class='fresco' data-fresco-group='Lady-Pope' data-fresco-caption="Lady Pope"></a>
+					<a href="images/gallery/48-gallery.jpg" class='fresco' data-fresco-group='Lady-Pope' data-fresco-caption="Lady Pope"></a>
+				</td>
 				<td>2008</td>
-			<tr></tr>	
-				<td>Portable glamour</td> 
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/49-gallery.jpg" class='fresco artwork' data-fresco-group='Portableglamour' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Portable glamour">Portable glamour</a>
+					<a href="images/gallery/50-gallery.jpg" class='fresco' data-fresco-group='Portableglamour' data-fresco-caption="Portable glamour"></a>
+					<a href="images/gallery/51-gallery.jpg" class='fresco' data-fresco-group='Portableglamour' data-fresco-caption="Portable glamour"></a>
+					<a href="images/gallery/52-gallery.jpg" class='fresco' data-fresco-group='Portableglamour' data-fresco-caption="Portable glamour"></a>
+				</td> 
 				<td>2009</td>
-			<tr></tr>	
-				<td>Guerilla mesh</td> 
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/53-gallery.jpg" class='fresco artwork' data-fresco-group='Guerilla-mesh' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Guerilla mesh">Guerilla mesh</a>
+					<a href="images/gallery/54-gallery.jpg" class='fresco' data-fresco-group='Guerilla-mesh' data-fresco-caption="Guerilla mesh"></a>
+					<a href="images/gallery/55-gallery.jpg" class='fresco' data-fresco-group='Guerilla-mesh' data-fresco-caption="Guerilla mesh"></a>
+				</td> 
 				<td>2010</td>
-			<tr></tr>	
-				<td>Bowled over</td>
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/56-gallery.jpg" class='fresco artwork' data-fresco-group='Bowled-over' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Bowled over">Bowled over</a>
+					<a href="images/gallery/57-gallery.jpg" class='fresco' data-fresco-group='Bowled-over' data-fresco-caption="Bowled over"></a>
+					<a href="images/gallery/58-gallery.jpg" class='fresco' data-fresco-group='Bowled-over' data-fresco-caption="Bowled over"></a>
+					<a href="images/gallery/59-gallery.jpg" class='fresco' data-fresco-group='Bowled-over' data-fresco-caption="Bowled over"></a>
+				</td>
 				<td>2011</td>
-			<tr></tr>	
-				<td>Psy-ched up</td> 
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/60-gallery.jpg" class='fresco artwork' data-fresco-group='Psy-ched-up' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Psy-ched up">Psy-ched up</a>
+					<a href="images/gallery/61-gallery.jpg" class='fresco' data-fresco-group='Psy-ched-up' data-fresco-caption="Psy-ched up"></a>
+					<a href="images/gallery/62-gallery.jpg" class='fresco' data-fresco-group='Psy-ched-up' data-fresco-caption="Psy-ched up"></a>
+					<a href="images/gallery/63-gallery.jpg" class='fresco' data-fresco-group='Psy-ched-up' data-fresco-caption="Psy-ched up"></a>
+				</td> 
 				<td>2012</td>
-			<tr></tr>	
-				<td>XRAY-ted</td> 
+			</tr><tr>	
+				<td>
+					<a href="images/gallery/64-gallery.jpg" class='fresco artwork' data-fresco-group='XRAY-ted' data-fresco-group-options="ui: 'outside'" data-fresco-caption="XRAY-ted">XRAY-ted</a>
+					<a href="images/gallery/65-gallery.jpg" class='fresco' data-fresco-group='XRAY-ted' data-fresco-caption="XRAY-ted"></a>
+					<a href="images/gallery/66-gallery.jpg" class='fresco' data-fresco-group='XRAY-ted' data-fresco-caption="XRAY-ted"></a>
+				</td> 
 				<td>2013</td>
 			</tr>
-			<tr></tr>	
+			</tr><tr>	
 				<td>
 					<a href="images/glo-down/Glo-down-1.jpg" class='fresco artwork' data-fresco-group='glo-down' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Glo-down">GLO-down</a>
 					<a href="images/glo-down/Glo-down-2.jpg" class='fresco' data-fresco-group='glo-down' data-fresco-caption="Glo-down"></a>
