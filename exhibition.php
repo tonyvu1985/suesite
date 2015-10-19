@@ -50,7 +50,7 @@
 		
 		<h1 class="title">Opening night</h1>
 
-		<p><a href="images/exhibition/opening-night-1.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Opening night">Link to new gallery of photos</a></p>
+		<p><a href="images/exhibition/opening-night-1.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-group-options="ui: 'outside'" data-fresco-caption="Opening night">Gallery of photos</a></p>
 		<a href="images/exhibition/opening-night-2.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
 		<a href="images/exhibition/opening-night-3.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
 		<a href="images/exhibition/opening-night-4.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
@@ -70,8 +70,9 @@
 		<a href="images/exhibition/opening-night-18.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
 		<a href="images/exhibition/opening-night-19.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
 		<a href="images/exhibition/opening-night-20.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="Opening night"></a>
+		<a href="images/exhibition/invitation.jpg" class='fresco' data-fresco-group='opening-night' data-fresco-caption="invitation"></a>
 
-		<p><a href="https://www.youtube.com/watch?v=6sULp-7taLM" target="_blank">Link to a video</a></p>
+		<p><a href="https://www.youtube.com/watch?v=6sULp-7taLM" target="_blank">Gallery video</a></p>
 		<div class="block"></div>
 	</div>
 	<div class="col-md-3 col-xs-12 exhibition-right text-center">

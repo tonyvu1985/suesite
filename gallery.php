@@ -268,6 +268,7 @@
 					<a href="images/gallery/64-gallery.jpg" class='fresco artwork' data-fresco-group='XRAY-ted' data-fresco-group-options="ui: 'outside'" data-fresco-caption="XRAY-ted">XRAY-ted</a>
 					<a href="images/gallery/65-gallery.jpg" class='fresco' data-fresco-group='XRAY-ted' data-fresco-caption="XRAY-ted"></a>
 					<a href="images/gallery/66-gallery.jpg" class='fresco' data-fresco-group='XRAY-ted' data-fresco-caption="XRAY-ted"></a>
+					<a href="images/gallery/XRAY-ted-4.jpg" class='fresco' data-fresco-group='XRAY-ted' data-fresco-caption="XRAY-ted 4.jpg"></a>
 				</td> 
 				<td>2013</td>
 			</tr>
