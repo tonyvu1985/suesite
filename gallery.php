@@ -102,7 +102,10 @@
 		<a href='images/gallery/65-gallery.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="X-RAYted 2"></a>
 		<a href='images/gallery/66-gallery.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="X-RAYted 3"></a>
 		<a href='images/gallery/67-gallery.jpg' class='fresco' data-fresco-group='slider' data-fresco-caption="X-RAYted 4"></a>
-		
+		<a href="images/glo-down/Glo-down-1.jpg" class='fresco' data-fresco-group='slider' data-fresco-caption="Glo-down 1"></a>
+		<a href="images/glo-down/Glo-down-2.jpg" class='fresco' data-fresco-group='slider' data-fresco-caption="Glo-down 2"></a>
+		<a href="images/glo-down/Glo-down-3.jpg" class='fresco' data-fresco-group='slider' data-fresco-caption="Glo-down 3"></a>
+		<a href="images/glo-down/Glo-down-4.jpg" class='fresco' data-fresco-group='slider' data-fresco-caption="Glo-down 4"></a>
 
 		<!-- Glomesh -->
 		<a href='images/glomesh-gallery/Glomesh-bags.jpg' class='fresco' data-fresco-group='glomesh' data-fresco-caption="Glomesh bags"></a>
